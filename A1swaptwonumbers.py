@@ -1,5 +1,5 @@
 a = 5
-b = 10
+b = 12
 print("Before swapping: a =", a, "b =", b)
 temp = a
 a = b
